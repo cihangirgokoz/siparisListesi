@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 public class Giris extends javax.swing.JFrame {
 
-    
+//deneme    
     public Giris() {
         initComponents();
     }
